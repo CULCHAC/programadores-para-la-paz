@@ -1,0 +1,2 @@
+tener un registro es importante ya que con el podemos revisar o verificar cualquier modificación que pudiéramos realizar en los diferentes proyectos y nos facilita la participación de los demás colaboradores y nos muestra quien pudo equivocare y nos permite realizar las respectivas correcciones.
+lo que nos garantiza que pueda ser organizado y confiable al permitirnos gestionar los cambios y que pueda tener diferentes ramas.

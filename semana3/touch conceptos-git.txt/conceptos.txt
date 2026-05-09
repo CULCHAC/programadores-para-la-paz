@@ -1,0 +1,6 @@
+* Repositorio: es un espacio de almacenamiento digital   donde podemos guardar archivos y proyectos con códigos fuentes.
+
+* Commit:  es aceptar guardar o registrar nuestra información de manera permanente como guardar una captura de lo que hacemos cuando entramos a trabajar en nuestro proyecto.
+
+* Push: es un comando para subir y confirmar las actualizaciones realizadas.
+
