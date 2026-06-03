@@ -1,0 +1,2 @@
+cuando una comunidad decide construir sus propias herramientas con tecnologías abiertas como Node.js, adquiere autonomía total por que así no dependemos de grandes empresas.
+aprender nuevas tecnologías nos ayuda a avanzar y ayudar a nuestras comunidades, a estar mejor informados y poder estar comunicados.
