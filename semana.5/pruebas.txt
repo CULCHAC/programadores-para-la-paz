@@ -1,0 +1,3 @@
+1 cuando entro a http://localhost:3000 carga la pagina principal del servidor y me muestra el mensaje de bienvenida configurado para el inicio.
+2 al probar http://localhost:3000/saludo el servidor respondió devolviendo un saludo en la pantalla, funcionando para verificar que esta respondiendo.
+3 al ingresar a  http://localhost:3000/mensaje/juan la ruta capturo con éxito el parámetro con el nombre juan en la URL y dio un mensaje personalizado en el navegador.

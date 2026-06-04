@@ -1,0 +1,2 @@
+que hace recibir un texto enviado por el usuario "el mensaje" lo procesa en el servidor y luego responde confirmando que lo recibió.
+sirve en la comunidad para crear buzón de mensajería y quejas o solicitudes virtuales, enviar alertas de emergencias de forma rápida y útil.
